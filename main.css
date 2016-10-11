@@ -1,6 +1,6 @@
 html {
   text-align: center;
-  
+   color: #708090
 }
 
 body {
@@ -21,11 +21,6 @@ h3.aboutMe {
     
 }
 
-
-  
-p {
-  color: #708090
-}
 
 
 img.profileImage {
