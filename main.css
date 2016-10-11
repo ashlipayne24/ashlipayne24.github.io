@@ -59,6 +59,21 @@ img.bookCover {
 
 }
 
+img.spaghetti {
+  width: 200px;
+  
+}
+
+img.spam {
+  width: 200px;
+  
+}
+
+img.pho {
+  width: 200px;
+  
+}
+
 
 body {
   
@@ -81,6 +96,8 @@ h2.bookCover {
  margin: auto;
   
 }
+
+
 
 ol { 
 text-align: left;
