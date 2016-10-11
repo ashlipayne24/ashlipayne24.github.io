@@ -38,7 +38,7 @@ img.profileImage {
     max-width: 95%; 
     float: right;
     margin: 0 0 10px 10px;
-    margin-right 10%
+    margin-right: 10%
 }
     
     
@@ -50,6 +50,7 @@ img.bookCover {
     width: 300px;
     max-width 95%; 
      margin-left: 10%; 
+
 }
 
 
