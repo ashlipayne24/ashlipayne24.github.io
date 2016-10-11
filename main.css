@@ -3,19 +3,19 @@
 h1 {
   color: skyblue; 
     text-align: center; 
-    font: sans-serif
+    font-family "helvetica" 
     margin-left: 10%; 
 }
 
 h3.aboutMe {
   color: skyblue; 
-  font: sans-serif;
+  font-family: "helvetica" 
    margin-left: 10%; 
     
 }
 
 h3.goals {
-  font: sans-serif; 
+  font-family: "helvetica" 
    margin-left: 10%; 
   
 }
