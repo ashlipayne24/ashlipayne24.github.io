@@ -24,6 +24,9 @@ img.profileImage {
     align-content: center;
     width: 300px;  
     max-width: 95%; 
+    float: right;
+    margin: 0 0 10px 10px;
+}
     
     
 }
