@@ -12,6 +12,10 @@ h3.aboutMe {
     
 }
 
+h4.goals {
+  font: sans-serif; 
+}
+  
 p {
   color: black;
 font-family: sans-serif; 
