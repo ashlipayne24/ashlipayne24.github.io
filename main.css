@@ -3,13 +3,13 @@
 h1 {
   color: skyblue; 
     text-align: center; 
-    font-family: sans-serif
+    font: sans-serif
     margin-left: 10%; 
 }
 
 h3.aboutMe {
   color: skyblue; 
-  font-family: sans-serif;
+  font: sans-serif;
    margin-left: 10%; 
     
 }
@@ -27,7 +27,7 @@ h2.book {
   
 p {
   color: #708090
-  font-family: sans-serif; 
+  font: sans-serif; 
     margin-left: 10%;
 }
 
