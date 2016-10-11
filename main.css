@@ -1,27 +1,45 @@
+html {
+    text-align: center 
+}
+
 h1 {
   color: white; 
+    text-align: center; 
+    font-family: "helvetica"
 }
 
 h1 { 
-  background-color: #00CED1;
+  background-color: skyblue;
 
 }
 
 p {
-  color: red;
+  color: black;
+font-family: sans-serif; 
+    
 }
 
 
-
-
-img .profileImage {
-  width: 300px; 
-  
+img.profileImage {
+    align-content: center;
+    width: 300px;  
+    max-width: 95%; 
+    
+    
 }
+
+img.bookCover { 
+    
+    align-content: center;
+    width: 300px;
+    max-width 95%; 
+    
+}
+
 
 body {
   
-  background-color: #E0FFFF;
+  background-color: white;
   
 }
 
@@ -31,8 +49,18 @@ h2 {
   
 }
 
+h2.bookCover {
+    text-align: center;
+    font-family: sans-serif; 
+}
+
 .center { 
  margin: auto;
   
+}
+
+ol { 
+text-align: left;
+
 }
 
