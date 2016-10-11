@@ -12,12 +12,9 @@ p {
 }
 
 
-img {
-  width: 300px; 
-  
-}
 
-img.galleryImage {
+
+img .profileImage {
   width: 300px; 
   
 }
