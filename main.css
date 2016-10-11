@@ -6,6 +6,10 @@ h1 {
     font-family: "helvetica"
 }
 
+h3.aboutme {
+  color: skyblue; 
+}
+
 p {
   color: black;
 font-family: sans-serif; 
