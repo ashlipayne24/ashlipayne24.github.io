@@ -44,24 +44,10 @@ img.art {
     
     align-content: center;
     width: 300px;
-    max-width 95%;
+    max-width 45%;
 
 }
 
-img.spaghetti {
-  width: 300px;
-  
-}
-
-img.spam {
-  width: 300px;
-  
-}
-
-img.pho {
-  width: 300px;
-  
-}
 
 
 body {
