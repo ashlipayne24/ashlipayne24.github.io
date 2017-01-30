@@ -35,14 +35,8 @@ body {
 h1 {
     color: skyblue; 
     text-align: right justify; 
-    font-family "helvetica"
+    font-family "helvetica"; 
+    padding-right: 2cm; 
 }
-
-    
-}
-
-img {
-  width: 200px;
-}
-                           
+                       
 
