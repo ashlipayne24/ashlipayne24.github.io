@@ -12,13 +12,13 @@ ul {
     border: 1px solid #e7e7e7;
     background-color: #f3f3f3;
     position: fixed;
-    bottom: 0;
+    top: 0;
     width: 100%;
 }
 
 
 li {
-    float: left;
+    display: inline; 
 }
 
 li a {
@@ -29,9 +29,8 @@ li a {
     text-decoration: none;
 }
 
-/* Change the link color to #111 (black) on hover */
 li a:hover {
-    background-color: #111;
+    background-color: #708090;
 }
 
 
