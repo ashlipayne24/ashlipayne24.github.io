@@ -1,12 +1,8 @@
 html {
   text-align: center;
-   color: #708090
+  color: #708090
 }
 
-h4 { 
-  color: #708090
-    
-}
 
 ul {
     background-color: #f3f3f3;
@@ -42,43 +38,11 @@ h1 {
     font-family "helvetica" 
 }
 
-h3.aboutMe {
-  color: skyblue; 
-    
-}
-
-
-    
     
 }
 
 img {
   width: 200px;
 }
-
-
-
-
-body {
-  
-  background-color: white;
-  
-}
-
-h2 {
-  color: skyblue;
-  
-  
-}
-
-
-}
-
-
-
-li {
-  display: inline; 
-  list-style-type: none;  
-  margin-left: 10%; 
-}                                           
+                           
 
