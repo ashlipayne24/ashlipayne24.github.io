@@ -40,6 +40,12 @@ img.profileImage {
     
 }
 
+div {
+    height: 100px;
+    width: 500px;
+    background-color: powderblue;
+}
+
 img.art { 
     
     align-content: center;
