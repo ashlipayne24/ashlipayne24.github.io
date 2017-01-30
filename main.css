@@ -3,6 +3,11 @@ html {
   color: #708090
 }
 
+h1 {
+    color: skyblue; 
+    text-align: right justify; 
+    font-family "helvetica"; 
+}
 
 ul {
     background-color: #f3f3f3;
@@ -32,10 +37,6 @@ body {
  
 }
 
-h1 {
-    color: skyblue; 
-    text-align: right justify; 
-    font-family "helvetica"; 
-}
+
                        
 
