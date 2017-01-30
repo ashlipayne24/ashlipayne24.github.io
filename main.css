@@ -40,16 +40,9 @@ img.profileImage {
     
 }
 
-.container {
-    width: 200px;
-    height: 120px;
+img.art {
 }
 
-/* resize images */
-.container img {
-    width: 100%;
-    height: auto;
-}
 
 
 
