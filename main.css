@@ -45,6 +45,7 @@ img.art {
     align-content: center;
     width: 50px;
     max-width 45%;
+    float: left; 
 
 }
 
